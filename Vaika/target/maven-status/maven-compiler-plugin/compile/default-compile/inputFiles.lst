@@ -6,8 +6,10 @@ D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\modele\BoiteVitesse.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\modele\Moteur.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\controller\AnnoncesController.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\service\StatistiquePrixService.java
+D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\modele\Message.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\repository\EnergieRepository.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\modele\StatistiquePrix.java
+D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\service\MessageService.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\repository\MarqueRepository.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\repository\AnnoncesRefuserRepository.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\service\EnergieService.java
@@ -37,6 +39,7 @@ D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\service\BoiteVitesseService.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\service\UtilisateurService.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\repository\StatistiqueMarqueRepository.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\service\AnnoncesAccepterService.java
+D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\repository\MessageRepository.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\repository\UtilisateurRepository.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\controller\CategorieController.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\repository\AnnonceRepository.java
@@ -45,6 +48,7 @@ D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\modele\Marque.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\security\AuthentificationRequest.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\controller\AuthController.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\repository\StatistiquePrixRepository.java
+D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\controller\MessageController.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\security\AuthentificationResponse.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\repository\MoteurRepository.java
 D:\itu\S5\MrRojo\Vaika\src\main\java\com\Vaika\modele\StatistiqueMarque.java
